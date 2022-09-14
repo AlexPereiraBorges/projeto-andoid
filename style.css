@@ -192,6 +192,10 @@ aside > ul {
     /* acima deveria quebra em duas a coluna mas nao foi. */
 }
 
+main > article > p {
+    padding-top: 10px;
+}
+
 footer {
     background-color: var(--cor5);
     color: white;
